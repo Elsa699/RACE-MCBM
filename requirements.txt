@@ -1,7 +1,0 @@
-numpy
-pandas
-scikit-learn
-lightgbm
-pyyaml
-matplotlib
-torch>=2.0.0
