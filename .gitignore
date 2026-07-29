@@ -1,0 +1,24 @@
+# ---- Large data (STATS19 is public DfT data; do not redistribute) ----
+data/raw/
+data/raw_last5_split/
+data/processed/
+*.csv.gz
+
+# ---- OS / editor junk ----
+__MACOSX/
+.DS_Store
+Thumbs.db
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- Misc scratch dirs ----
+report/
+results_runs/
+results_neural_baselines/
+results_neural_baselines_ft/
+results_smoke_test/
